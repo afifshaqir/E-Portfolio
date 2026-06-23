@@ -109,7 +109,7 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
 | 13 | Artificial Intelligence | [📁 View](./Year3/Sem1/Artificial-Intelligence) | 🔄 In Progress |
-| 14 | High Performance Data Processing | [📁 View](./Year3/Sem1/High-Performance-Data-Processing) | 🔄 In Progress |
+| 14 | Enterprise | [📁 View](./Year3/Sem1/Enterprise) | 🔄 In Progress |
 | 15 | Database Programming | [📁 View](./Year3/Sem1/Database-Programming) | 🔄 In Progress |
 
 ### Semester 2
@@ -117,8 +117,9 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
 | 16 | Business Intelligence | [📁 View](./Year3/Sem2/Business-Intelligence) | 🔄 In Progress |
-| 17 | Machine Learning | [📁 View](./Year3/Sem2/Machine-Learning) | 🔄 In Progress |
-| 18 | **Special Topic in Data Engineering (SECP3843)** ⭐ | [📁 View](./Year3/Sem2/SECP3843-Special-Topic) | ✅ Active |
+| 17 | High Performance Data Processing | [📁 View](./Year3/Sem2/Machine-Learning) | 🔄 In Progress |
+| 18 | Application Development | [📁 View](./Year3/Sem2/ApplicationDevelopment) | 🔄 In Progress |
+| 19 | **Special Topic in Data Engineering (SECP3843)** ⭐ | [📁 View](./Year3/Sem2/SECP3843-Special-Topic) | ✅ Active |
 
 ---
 
