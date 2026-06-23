@@ -13,6 +13,7 @@
 | **Name** | Afif Shaqir Irfan bin Arqam |
 | **Matric No.** | A23CS0204 |
 | **Course** | Special Topics in Data Engineering (SECP3843) |
+| **Lecturer** | Dr. Aryati |
 | **Semester** | Semester II 2025/2026 |
 
 </div>
@@ -210,25 +211,29 @@ The PPG project was the most realistic experience of the whole semester. Working
 
 > 📁 Folder: [`ProjectIndividual/`](./ProjectIndividual)
 
+### Project Title
+
+**A Data Pipeline for Telco Customer Churn Analysis Using Apache Spark**
+
 ### Project Overview
 
-*[Describe your individual project — the problem, approach, and outcome.]*
+This individual project addresses a real business challenge in the telecommunications industry — customer churn. The project designs and implements a scalable, automated data pipeline using Apache Spark to ingest, process, and store multi-source Telco customer data for churn analysis. The pipeline follows the Medallion (Bronze/Silver/Gold) Data Lakehouse architecture built on Delta Lake, and embeds a Random Forest Classifier via Spark MLlib to predict customer churn. The overall project lifecycle is guided by the CRISP-DM methodology.
 
 ### Technologies Used
 
-*[e.g., Python, machine learning libraries, cloud services, etc.]*
+Apache Spark · Spark MLlib · Delta Lake · Medallion Architecture (Bronze/Silver/Gold) · Random Forest Classifier · CRISP-DM · Python (PySpark)
 
 ### Reflection
 
-Working on an individual project from start to finish gave me full ownership of the design and implementation decisions. Without a team to rely on, every choice — from data source to pipeline architecture to visualisation — was mine to make and defend. It pushed me to be more deliberate about planning, more careful about testing, and more thorough in documenting my reasoning. This project is the piece of work I am most personally invested in this semester.
+This project brought together almost everything from the semester — data pipelines, distributed computing, machine learning, and architecture design — into one end-to-end system. Choosing a telco churn dataset was deliberate: it is a well-defined business problem with real stakes, which made every design decision feel meaningful. Implementing the Medallion Architecture with Delta Lake taught me how to structure data across layers properly, not just dump everything into one table. Embedding the Random Forest Classifier directly into the pipeline — rather than treating ML as an afterthought — was the part I am most proud of. Working alone also meant there was no one else to catch mistakes, so I became much more disciplined about testing each stage before moving to the next.
 
-> **Suggestion for Improvement:** A mid-project checkpoint with the lecturer would help catch design issues early before they become harder to fix.
+> **Suggestion for Improvement:** Adding a streaming ingestion layer using Spark Structured Streaming would make the pipeline more realistic for a production telco environment.
 
 ### Evidence
 
 | Item | Link |
 |------|------|
-| Project Report | [View Report](./ProjectIndividual/report.pdf) |
+| Project Report (Draft Proposal) | [View Report](./ProjectIndividual/AfifShaqiriIrfan.pdf) |
 | Source Code | [View Code](./ProjectIndividual/code/) |
 
 ---
