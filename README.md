@@ -125,7 +125,6 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 
 ## 🌟 SECP3843 — Special Topics in Data Engineering
 
-> **Exchange Programme · Semester II 2025/2026**
 
 | Item | Description | Link |
 |------|-------------|------|
