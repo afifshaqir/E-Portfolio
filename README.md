@@ -136,7 +136,7 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 
 | Item | Description | Link |
 |------|-------------|------|
-| 📝 Assignment 1 | Academic Writing | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment1) |
+| 📝 Assignment 1 | Academic Writing | [View →]([./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment1](https://github.com/afifshaqir/E-Portfolio/tree/main/YEAR%203/SEM%202/SECP3843-Special-Topic)) |
 | ☁️ Assignment 2 | Tutorial: Microsoft Azure | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment2) |
 | ⚡ Assignment 3 | Tutorial: Apache Spark | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment3) |
 | 🤖 Assignment 4 | Tutorial: Artificial Intelligence | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment4) |
