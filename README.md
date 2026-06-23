@@ -39,7 +39,10 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 │   │   └── 📁 Discrete-Structure/
 │   └── 📁 SEM 2/
 │       ├── 📁 Probability-Statistical-Data-Analysis/
-│       └── 📁 Human-Computer-Interaction/
+│       ├── 📁 Human-Computer-Interaction/
+│       ├── 📁 System-Analysis-and-Design-(WBL)/
+│       ├── 📁 Computer-Organization-And-Architecture/
+│       └── 📁 Programming-Technique-II/
 ├── 📁 YEAR 2/
 │   ├── 📁 SEM 1/
 │   │   ├── 📁 Data-Structures-Algorithm/
@@ -61,7 +64,7 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
         ├── 📁 Application Development/
         ├── 📁 Business Intelligence/
         ├── 📁 High Performance Data Processing/
-        └── 📁 SECP3843-Special-Topic/ 
+        └── 📁 SECP3843-Special-Topic/ ⭐ Exchange Programme
 ```
 
 ---
@@ -83,6 +86,9 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 |-----|---------|--------|--------|
 | 5 | Probability & Statistical Data Analysis | [📁 View](./YEAR%201/SEM%202/Probability-Statistical-Data-Analysis) | 🔄 In Progress |
 | 6 | Human Computer Interaction | [📁 View](./YEAR%201/SEM%202/Human-Computer-Interaction) | 🔄 In Progress |
+| 7 | System Analysis and Design (WBL) | [📁 View](./YEAR%201/SEM%202/System-Analysis-and-Design-(WBL)) | 🔄 In Progress |
+| 8 | Computer Organization and Architecture | [📁 View](./YEAR%201/SEM%202/Computer-Organization-And-Architecture) | 🔄 In Progress |
+| 9 | Programming Technique II | [📁 View](./YEAR%201/SEM%202/Programming-Technique-II) | 🔄 In Progress |
 
 ---
 
@@ -92,20 +98,20 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
-| 7 | Data Structures & Algorithm | [📁 View](./YEAR%202/SEM%201/Data-Structures-Algorithm) | 🔄 In Progress |
-| 8 | Database (WBL) | [📁 View](./YEAR%202/SEM%201/Database%20(WBL)) | 🔄 In Progress |
-| 9 | Network Communication | [📁 View](./YEAR%202/SEM%201/Network-Communication) | 🔄 In Progress |
-| 10 | Software Engineering (WBL) | [📁 View](./YEAR%202/SEM%201/Software%20Engineering%20(WBL)) | 🔄 In Progress |
-| 11 | System Development (WBL) | [📁 View](./YEAR%202/SEM%201/System%20Development%20(WBL)) | 🔄 In Progress |
+| 10 | Data Structures & Algorithm | [📁 View](./YEAR%202/SEM%201/Data-Structures-Algorithm) | 🔄 In Progress |
+| 11 | Database (WBL) | [📁 View](./YEAR%202/SEM%201/Database%20(WBL)) | 🔄 In Progress |
+| 12 | Network Communication | [📁 View](./YEAR%202/SEM%201/Network-Communication) | 🔄 In Progress |
+| 13 | Software Engineering (WBL) | [📁 View](./YEAR%202/SEM%201/Software%20Engineering%20(WBL)) | 🔄 In Progress |
+| 14 | System Development (WBL) | [📁 View](./YEAR%202/SEM%201/System%20Development%20(WBL)) | 🔄 In Progress |
 
 ### Semester 2
 
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
-| 12 | Data Analytic Programming | [📁 View](./YEAR%202/SEM%202/Data%20Analytic%20Programming) | 🔄 In Progress |
-| 13 | Data Mining | [📁 View](./YEAR%202/SEM%202/Data%20Mining) | 🔄 In Progress |
-| 14 | Object Oriented Programming | [📁 View](./YEAR%202/SEM%202/Object%20Oriented%20Programming) | 🔄 In Progress |
-| 15 | Operating Systems | [📁 View](./YEAR%202/SEM%202/Operating-Systems) | 🔄 In Progress |
+| 15 | Data Analytic Programming | [📁 View](./YEAR%202/SEM%202/Data%20Analytic%20Programming) | 🔄 In Progress |
+| 16 | Data Mining | [📁 View](./YEAR%202/SEM%202/Data%20Mining) | 🔄 In Progress |
+| 17 | Object Oriented Programming | [📁 View](./YEAR%202/SEM%202/Object%20Oriented%20Programming) | 🔄 In Progress |
+| 18 | Operating Systems | [📁 View](./YEAR%202/SEM%202/Operating-Systems) | 🔄 In Progress |
 
 ---
 
@@ -115,18 +121,35 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
-| 16 | Artificial Intelligence | [📁 View](./YEAR%203/SEM%201/Artificial-Intelligence) | 🔄 In Progress |
-| 17 | Database Programming | [📁 View](./YEAR%203/SEM%201/Database%20Programming) | 🔄 In Progress |
-| 18 | Enterprise Systems Design and Modelling (WBL) | [📁 View](./YEAR%203/SEM%201/Enterprise%20Systems%20Design%20and%20Modelling%20(WBL)) | 🔄 In Progress |
+| 19 | Artificial Intelligence | [📁 View](./YEAR%203/SEM%201/Artificial-Intelligence) | 🔄 In Progress |
+| 20 | Database Programming | [📁 View](./YEAR%203/SEM%201/Database%20Programming) | 🔄 In Progress |
+| 21 | Enterprise Systems Design and Modelling (WBL) | [📁 View](./YEAR%203/SEM%201/Enterprise%20Systems%20Design%20and%20Modelling%20(WBL)) | 🔄 In Progress |
 
 ### Semester 2
 
 | No. | Subject | Folder | Status |
 |-----|---------|--------|--------|
-| 19 | Application Development | [📁 View](./YEAR%203/SEM%202/Application%20Development) | 🔄 In Progress |
-| 20 | Business Intelligence | [📁 View](./YEAR%203/SEM%202/Business%20Intelligence) | 🔄 In Progress |
-| 21 | High Performance Data Processing | [📁 View](./YEAR%203/SEM%202/High%20Performance%20Data%20Processing) | 🔄 In Progress |
-| 22 | **Special Topic in Data Engineering (SECP3843)** ⭐ | [📁 View](./YEAR%203/SEM%202/SECP3843-Special-Topic) | ✅ Active |
+| 22 | Application Development | [📁 View](./YEAR%203/SEM%202/Application%20Development) | 🔄 In Progress |
+| 23 | Business Intelligence | [📁 View](./YEAR%203/SEM%202/Business%20Intelligence) | 🔄 In Progress |
+| 24 | High Performance Data Processing | [📁 View](./YEAR%203/SEM%202/High%20Performance%20Data%20Processing) | 🔄 In Progress |
+| 25 | **Special Topic in Data Engineering (SECP3843)** ⭐ | [📁 View](./YEAR%203/SEM%202/SECP3843-Special-Topic) | ✅ Active |
+
+---
+
+## 🌟 SECP3843 — Special Topics in Data Engineering
+
+> **Exchange Programme · Semester II 2025/2026**
+
+| Item | Description | Link |
+|------|-------------|------|
+| 📝 Assignment 1 | Academic Writing | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment1) |
+| ☁️ Assignment 2 | Tutorial: Microsoft Azure | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment2) |
+| ⚡ Assignment 3 | Tutorial: Apache Spark | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment3) |
+| 🤖 Assignment 4 | Tutorial: Artificial Intelligence | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment4) |
+| 🏭 Industry Visit | Site visit report and reflections | [View →](https://www.linkedin.com/posts/afif-shaqir-8b7a92285_7-april-2026-i-had-an-awesome-time-visiting-activity-7450740826164449280-QVB_?utm_source=share&utm_medium=member_ios&rcm=ACoAAEVks4sBI8M3MhGCZkPViBxkjCX352YhDEU) |
+| 🎤 Industry Talk | Summary and takeaways | [View →](https://www.linkedin.com/posts/afif-shaqir-8b7a92285_tm-industrytalk-dataengineering-ugcPost-7474968706335559680-da6d/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEVks4sBI8M3MhGCZkPViBxkjCX352YhDEU) |
+| 🏗️ Project Industry (PPG) | Industry-based group project | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/ProjectIndustry) |
+| 👤 Project Individual | Alternative assessment individual project | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/ProjectIndividual) |
 
 ---
 
@@ -147,10 +170,10 @@ Universiti Teknologi Malaysia (UTM) · 2023 – 2027
 
 | Year | Subjects | Completed | In Progress |
 |------|----------|-----------|-------------|
-| Year 1 | 6 | 4 | 2 |
+| Year 1 | 9 | 4 | 5 |
 | Year 2 | 9 | 0 | 9 |
 | Year 3 | 7 | 1 | 6 |
-| **Total** | **22** | **5** | **17** |
+| **Total** | **25** | **5** | **20** |
 
 ---
 
