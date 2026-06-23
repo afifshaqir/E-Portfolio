@@ -9,7 +9,7 @@
 | ⚡ Assignment 3 | Tutorial: Apache Spark | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment3) |
 | 🤖 Assignment 4 | Tutorial: Artificial Intelligence | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/Assignment4) |
 | 🏭 Industry Visit | Site visit report and reflections | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/IndustryVisit) |
-| 🎤 Industry Talk | Summary and takeaways | [View →]([https://www.linkedin.com/posts/afif-shaqir-8b7a92285_tm-industrytalk-dataengineering-ugcPost-7474968706335559680-da6d/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEVks4sBI8M3MhGCZkPViBxkjCX352YhDEU) |
+| 🎤 Industry Talk | Summary and takeaways | [View →]([[https://www.linkedin.com/posts/afif-shaqir-8b7a92285_tm-industrytalk-dataengineering-ugcPost-7474968706335559680-da6d/?utm_source=share&utm_medium=member_ios&rcm=ACoAAEVks4sBI8M3MhGCZkPViBxkjCX352YhDEU)]
 | 🏗️ Project Industry (PPG) | Industry-based group project | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/ProjectIndustry) |
 | 👤 Project Individual | Alternative assessment individual project | [View →](./YEAR%203/SEM%202/SECP3843-Special-Topic/ProjectIndividual) |
 
